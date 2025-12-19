@@ -40,3 +40,5 @@ Using arithmetic, relational, and modulus operators
 Working with user input and output
 Applying mathematical formulas in programs
 Building logical thinking through simple problem-solving
+
+Author Name: Rishabh Kumar Tiwari
