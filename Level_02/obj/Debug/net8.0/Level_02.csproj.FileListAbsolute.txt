@@ -1,0 +1,15 @@
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.AssemblyInfoInputs.cache
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.AssemblyInfo.cs
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.csproj.CoreCompileInputs.cache
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.sourcelink.json
+F:\CSharp\Arrays\Level_02\bin\Debug\net8.0\Level_02.exe
+F:\CSharp\Arrays\Level_02\bin\Debug\net8.0\Level_02.deps.json
+F:\CSharp\Arrays\Level_02\bin\Debug\net8.0\Level_02.runtimeconfig.json
+F:\CSharp\Arrays\Level_02\bin\Debug\net8.0\Level_02.dll
+F:\CSharp\Arrays\Level_02\bin\Debug\net8.0\Level_02.pdb
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.dll
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\refint\Level_02.dll
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.pdb
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\Level_02.genruntimeconfig.cache
+F:\CSharp\Arrays\Level_02\obj\Debug\net8.0\ref\Level_02.dll
